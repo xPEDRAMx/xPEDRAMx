@@ -3,26 +3,10 @@
 <h3 align="center">ML and Self-Driving Engineer | Ph.D. Candidate</h3>
 
 <p align="center">
-  <a href="https://xpedramx.github.io/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-xpedramx.github.io-0e75b6?style=flat&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/pedrambeigi/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pedrambeigi-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=n1b1vOMAAAAJ&hl=en">
-    <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat&logo=googlescholar&logoColor=white" />
-  </a>
+  <a href="https://xpedramx.github.io/" style="text-decoration: none; display: inline-block;"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-xpedramx.github.io-0e75b6?style=flat&logo=googlechrome&logoColor=white" /></a><a href="https://www.linkedin.com/in/pedrambeigi/" style="text-decoration: none; display: inline-block;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/linkedin.svg" width="18" height="18" alt="" style="vertical-align: middle; margin-right: 4px;" /><img alt="LinkedIn — pedrambeigi" src="https://img.shields.io/badge/pedrambeigi-0A66C2?style=flat" /></a><a href="https://scholar.google.com/citations?user=n1b1vOMAAAAJ&hl=en" style="text-decoration: none; display: inline-block;"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat&logo=googlescholar&logoColor=white" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/xPEDRAMx/xPEDRAMx/actions/workflows/update-readme.yml">
-    <img alt="Update README Metrics" src="https://github.com/xPEDRAMx/xPEDRAMx/actions/workflows/update-readme.yml/badge.svg" />
-  </a>
-  <a href="https://github.com/xPEDRAMx">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/xPEDRAMx?label=Followers&style=flat" />
-  </a>
-  <a href="https://github.com/xPEDRAMx">
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=xPEDRAMx&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
+  <a href="https://github.com/xPEDRAMx/xPEDRAMx/actions/workflows/update-readme.yml" style="text-decoration: none; display: inline-block;"><img alt="Update README Metrics" src="https://github.com/xPEDRAMx/xPEDRAMx/actions/workflows/update-readme.yml/badge.svg" /></a><a href="https://github.com/xPEDRAMx" style="text-decoration: none; display: inline-block;"><img alt="GitHub followers" src="https://img.shields.io/github/followers/xPEDRAMx?label=Followers&style=flat" /></a><a href="https://github.com/xPEDRAMx" style="text-decoration: none; display: inline-block;"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=xPEDRAMx&label=Profile%20views&color=0e75b6&style=flat" /></a>
 </p>
 
 ## About Me
