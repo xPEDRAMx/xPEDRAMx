@@ -137,7 +137,7 @@ const commitFile = async (emptyCommit = false) => {
   await exec("git", ["config", "user.name", COMMIT_NAME]);
   const branch = process.env.GITHUB_REF_NAME;
   if (branch) {
-    await exec("git", ["pull", "--rebase", "origin", branch, "--no-edit"]);
+    await exec("git", ["pull", "--rebase", "origin", branch]);
   }
   if (emptyCommit) {
     await exec("git", ["commit", "--allow-empty", "-m", EMPTY_COMMIT_MSG]);
