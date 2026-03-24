@@ -30,4 +30,53 @@
 ## 🐱 My GitHub Data
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 291.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 55 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+🌆 Daytime                73 commits          █████████████░░░░░░░░░░░░   52.14 % 
+🌃 Evening                40 commits          ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+🌙 Night                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+Jupyter Notebook         11 repos            ██████████████████░░░░░░░   73.33 % 
+Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+```
+
+
+
+
+ Last Updated on 24/03/2026 18:39:37 UTC
 <!--END_SECTION:waka-->
