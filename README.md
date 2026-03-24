@@ -9,6 +9,13 @@
 <br/>
 
 ## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <br/>
 
 ## 🐱 My GitHub Data
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
