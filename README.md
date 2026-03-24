@@ -14,7 +14,8 @@
   <a href="https://scholar.google.com/citations?user=n1b1vOMAAAAJ&hl=en">
     <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat&logo=googlescholar&logoColor=white" />
   </a>
-  &nbsp;
+</p>
+<p align="center">
   <a href="https://github.com/xPEDRAMx/xPEDRAMx/actions/workflows/update-readme.yml">
     <img alt="README Metrics" src="https://github.com/xPEDRAMx/xPEDRAMx/actions/workflows/update-readme.yml/badge.svg" />
   </a>
@@ -37,7 +38,7 @@
 ## 🐱 My GitHub Data
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-115.1%20hours-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -49,7 +50,7 @@
  > 
 > 📜 4 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 12 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
