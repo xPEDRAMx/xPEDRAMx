@@ -3,14 +3,14 @@
 <h3 align="center">ML and Self-Driving Engineer | Ph.D. Candidate</h3>
 
 <p align="center">
-  <a href="https://github.com/pedrambeigi/xPEDRAMx/actions/workflows/update-readme.yml">
-    <img alt="Update README Metrics" src="https://github.com/pedrambeigi/xPEDRAMx/actions/workflows/update-readme.yml/badge.svg" />
+  <a href="https://github.com/xPEDRAMx/xPEDRAMx/actions/workflows/update-readme.yml">
+    <img alt="Update README Metrics" src="https://github.com/xPEDRAMx/xPEDRAMx/actions/workflows/update-readme.yml/badge.svg" />
   </a>
-  <a href="https://github.com/pedrambeigi">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/pedrambeigi?label=Followers&style=flat" />
+  <a href="https://github.com/xPEDRAMx">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/xPEDRAMx?label=Followers&style=flat" />
   </a>
-  <a href="https://github.com/pedrambeigi">
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=pedrambeigi&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="https://github.com/xPEDRAMx">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=xPEDRAMx&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
 </p>
 
