@@ -1,8 +1,14 @@
-<h1 align="center">Helle there! </h1>
+<h1 align="center">Hi there! </h1>
 
 <h3 align="center">ML and Self-Driving Engineer | Ph.D. Candidate</h3>
 
 <p align="center">
+  <a href="https://xpedramx.github.io/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-xpedramx.github.io-0e75b6?style=flat&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=n1b1vOMAAAAJ&hl=en">
+    <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat&logo=googlescholar&logoColor=white" />
+  </a>
   <a href="https://github.com/xPEDRAMx/xPEDRAMx/actions/workflows/update-readme.yml">
     <img alt="Update README Metrics" src="https://github.com/xPEDRAMx/xPEDRAMx/actions/workflows/update-readme.yml/badge.svg" />
   </a>
@@ -16,6 +22,7 @@
 
 ## About Me
 - Machine Learning and Self-Driving Engineer with expertise in perception, motion prediction, behavior modeling and automation for AV systems. Skilled in developing perception and planning pipelines, simulation-based evaluation, multimodal sensor fusion, and AI driven decision-making. Experienced collaborating with federal research labs to integrate advanced AI and AV algorithms into intelligent transportation and automation platforms.
+- For a fuller picture of my background—**experience**, **projects**, and **publications**—visit my site **[xpedramx.github.io](https://xpedramx.github.io/)**. Papers and citations are on **[Google Scholar](https://scholar.google.com/citations?user=n1b1vOMAAAAJ&hl=en)**.
 
 <br/>
 
