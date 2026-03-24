@@ -15,8 +15,7 @@
 </p>
 
 ## About Me
-- Machine Learning and Self-Driving Engineer with expertise in perception, motion prediction, behavior modeling and automation for AV systems. Skilled in developing perception and planning pipelines, simulation-based evaluation, multimodal sensor fusion, and AI driven decision-making.
-- Experienced collaborating with federal research labs to integrate advanced AI and AV algorithms into intelligent transportation and automation platforms. Interested in physics-informed AI, reinforcement learning, and building scalable surrogate models to bridge high-performance computing with practical, memory-constrained deployments.
+- Machine Learning and Self-Driving Engineer with expertise in perception, motion prediction, behavior modeling and automation for AV systems. Skilled in developing perception and planning pipelines, simulation-based evaluation, multimodal sensor fusion, and AI driven decision-making. Experienced collaborating with federal research labs to integrate advanced AI and AV algorithms into intelligent transportation and automation platforms.
 
 <br/>
 
