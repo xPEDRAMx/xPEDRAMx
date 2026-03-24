@@ -22,8 +22,7 @@
 
 ## About Me
 - Machine Learning and Self-Driving Engineer with expertise in perception, motion prediction, behavior modeling and automation for AV systems. Skilled in developing perception and planning pipelines, simulation-based evaluation, multimodal sensor fusion, and AI driven decision-making. Experienced collaborating with federal research labs to integrate advanced AI and AV algorithms into intelligent transportation and automation platforms.
-- For a fuller picture of my background—**experience**, **projects**, and **publications**—visit my site **[xpedramx.github.io](https://xpedramx.github.io/)**. Papers and citations are on **[Google Scholar](https://scholar.google.com/citations?user=n1b1vOMAAAAJ&hl=en)**.
-- I look forward to connecting—feel free to reach me at **[beigi@gwu.edu](mailto:beigi@gwu.edu)**.
+- I look forward to connecting - visit my 🌐 **[Website](https://xpedramx.github.io/)** to see my experience and projects, check my 🎓 **[Scholar](https://scholar.google.com/citations?user=n1b1vOMAAAAJ&hl=en)** for publications, and reach me at ✉️ **[beigi@gwu.edu](mailto:beigi@gwu.edu)**.
 
 <br/>
 
