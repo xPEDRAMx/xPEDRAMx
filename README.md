@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi there </h1>
 
-<!--
-**xPEDRAMx/xPEDRAMx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">ML and Self-Driving Engineer | Ph.D. Candidate</h3>
 
-Here are some ideas to get you started:
+## About Me
+- Machine Learning and Self-Driving Engineer with expertise in perception, motion prediction, behavior modeling and automation for AV systems. Skilled in developing perception and planning pipelines, simulation-based evaluation, multimodal sensor fusion, and AI driven decision-making.
+- Experienced collaborating with federal research labs to integrate advanced AI and AV algorithms into intelligent transportation and automation platforms. Interested in physics-informed AI, reinforcement learning, and building scalable surrogate models to bridge high-performance computing with practical, memory-constrained deployments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+## ⚡ Recent Activity
+<br/>
+
+## 🐱 My GitHub Data
