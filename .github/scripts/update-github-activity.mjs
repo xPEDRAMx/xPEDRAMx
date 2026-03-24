@@ -135,6 +135,10 @@ const serializers = {
 const commitFile = async (emptyCommit = false) => {
   await exec("git", ["config", "user.email", COMMIT_EMAIL]);
   await exec("git", ["config", "user.name", COMMIT_NAME]);
+  const branch = process.env.GITHUB_REF_NAME;
+  if (branch) {
+    await exec("git", ["pull", "--rebase", "origin", branch, "--no-edit"]);
+  }
   if (emptyCommit) {
     await exec("git", ["commit", "--allow-empty", "-m", EMPTY_COMMIT_MSG]);
   } else {
@@ -186,6 +190,16 @@ if (!res.ok) {
 }
 
 const events = await res.json();
+
+if (!Array.isArray(events)) {
+  console.error(
+    "GitHub API did not return a list of events:",
+    typeof events === "object" && events !== null
+      ? JSON.stringify(events).slice(0, 500)
+      : events,
+  );
+  process.exit(1);
+}
 
 const content = events
   .filter(

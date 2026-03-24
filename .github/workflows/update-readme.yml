@@ -17,6 +17,8 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       - uses: actions/setup-node@v5
         with:
           node-version: "24"
@@ -26,12 +28,16 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: ${{ github.repository_owner }}
 
+  # Run after activity so both jobs don't push competing README commits (non-fast-forward failures).
   update-waka-stats:
+    needs: update-activity
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       # GH_TOKEN: classic PAT with repo + user (see EXAMPLE-HOW_TO.md). Falls back to GITHUB_TOKEN if unset.
       - uses: anmol098/waka-readme-stats@master
         with:
