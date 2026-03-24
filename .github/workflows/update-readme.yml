@@ -1,6 +1,13 @@
 name: Update README Metrics
 
 on:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - ".github/workflows/update-readme.yml"
+      - ".github/scripts/update-github-activity.mjs"
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
@@ -10,8 +17,13 @@ on:
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
+concurrency:
+  group: readme-metrics-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   update-activity:
+    continue-on-error: true
     runs-on: ubuntu-latest
     permissions:
       contents: write

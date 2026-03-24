@@ -135,10 +135,8 @@ const serializers = {
 const commitFile = async (emptyCommit = false) => {
   await exec("git", ["config", "user.email", COMMIT_EMAIL]);
   await exec("git", ["config", "user.name", COMMIT_NAME]);
-  const branch = process.env.GITHUB_REF_NAME;
-  if (branch) {
-    await exec("git", ["pull", "--rebase", "origin", branch]);
-  }
+  // No git pull here: clean checkout + update-waka-stats runs after this job (needs:).
+  // Pull/rebase on Actions often fails for shallow clone / no upstream / divergent state.
   if (emptyCommit) {
     await exec("git", ["commit", "--allow-empty", "-m", EMPTY_COMMIT_MSG]);
   } else {
