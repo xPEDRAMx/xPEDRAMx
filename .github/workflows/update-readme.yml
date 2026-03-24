@@ -44,3 +44,7 @@ jobs:
           SHOW_COMMIT: "True"
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_TIMEZONE: "False"
+          # Hides "This Week I Spent My Time On" (needs any of timezone/lang/editors/projects/os on)
+          SHOW_LANGUAGE: "False"
+          SHOW_EDITORS: "False"
+          SHOW_OS: "False"
