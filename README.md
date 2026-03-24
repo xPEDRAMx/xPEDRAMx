@@ -14,10 +14,9 @@
   <a href="https://scholar.google.com/citations?user=n1b1vOMAAAAJ&hl=en">
     <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat&logo=googlescholar&logoColor=white" />
   </a>
-</p>
-<p align="center">
+  &nbsp;
   <a href="https://github.com/xPEDRAMx/xPEDRAMx/actions/workflows/update-readme.yml">
-    <img alt="Update README Metrics" src="https://github.com/xPEDRAMx/xPEDRAMx/actions/workflows/update-readme.yml/badge.svg" />
+    <img alt="README Metrics" src="https://github.com/xPEDRAMx/xPEDRAMx/actions/workflows/update-readme.yml/badge.svg" />
   </a>
   &nbsp;
   <a href="https://github.com/xPEDRAMx">
