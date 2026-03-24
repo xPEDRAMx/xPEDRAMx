@@ -7,7 +7,6 @@ on:
       - master
     paths:
       - ".github/workflows/update-readme.yml"
-      - ".github/scripts/update-github-activity.mjs"
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
@@ -22,27 +21,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  update-activity:
-    continue-on-error: true
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v5
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-      - uses: actions/setup-node@v5
-        with:
-          node-version: "24"
-      - name: Update README with recent activity
-        run: node .github/scripts/update-github-activity.mjs
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USERNAME: ${{ github.repository_owner }}
-
-  # Run after activity so both jobs don't push competing README commits (non-fast-forward failures).
   update-waka-stats:
-    needs: update-activity
     runs-on: ubuntu-latest
     permissions:
       contents: write
