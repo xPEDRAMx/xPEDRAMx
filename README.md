@@ -1,4 +1,4 @@
-<h1 align="center">Hello there </h1>
+<h1 align="center">Helle there! </h1>
 
 <h3 align="center">ML and Self-Driving Engineer | Ph.D. Candidate</h3>
 
