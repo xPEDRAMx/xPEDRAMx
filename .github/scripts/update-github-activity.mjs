@@ -67,10 +67,27 @@ const EMPTY_COMMIT_MSG =
   ":memo: empty commit to keep workflow active after 60 days of no activity";
 const FILTER_RAW =
   process.env.FILTER_EVENTS ||
-  "IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent";
+  "PushEvent,IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent,CreateEvent";
 const FILTER_EVENTS = FILTER_RAW.split(",").map((s) => s.trim());
 
 const serializers = {
+  PushEvent: (item) => {
+    const repo = item.repo.name;
+    const ref = item.payload.ref || "";
+    const branch = ref.replace(/^refs\/heads\//, "") || "main";
+    const n = item.payload.size ?? item.payload.commits?.length ?? 0;
+    const commitWord = n === 1 ? "commit" : "commits";
+    return `🔨 Pushed ${n} ${commitWord} to [\`${branch}\`](https://github.com/${repo}/commits/${encodeURIComponent(branch)}) in [${repo}](https://github.com/${repo})`;
+  },
+  CreateEvent: (item) => {
+    const repo = item.repo.name;
+    const { ref_type, ref } = item.payload;
+    if (ref_type === "repository") {
+      return `📁 Created repository [${repo}](https://github.com/${repo})`;
+    }
+    const r = ref || "";
+    return `🌿 Created ${ref_type} \`${r}\` in [${repo}](https://github.com/${repo})`;
+  },
   IssueCommentEvent: (item) =>
     `🗣 Commented on ${toUrlFormat(item)} in ${toUrlFormat(item.repo.name)}`,
   IssuesEvent: (item) => {
