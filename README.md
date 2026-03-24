@@ -7,13 +7,12 @@
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-xpedramx.github.io-0e75b6?style=flat&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/pedrambeigi/">
-    <img alt="LinkedIn" src="https://raw.githubusercontent.com/xPEDRAMx/xPEDRAMx/main/.github/assets/linkedin-badge.svg" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pedrambeigi-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://scholar.google.com/citations?user=n1b1vOMAAAAJ&hl=en">
     <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat&logo=googlescholar&logoColor=white" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/xPEDRAMx/xPEDRAMx/actions/workflows/update-readme.yml">
     <img alt="Update README Metrics" src="https://github.com/xPEDRAMx/xPEDRAMx/actions/workflows/update-readme.yml/badge.svg" />
