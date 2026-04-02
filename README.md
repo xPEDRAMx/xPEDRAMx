@@ -16,35 +16,36 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 291.4 kB Used in GitHub's Storage 
+> 📦 308.7 kB Used in GitHub's Storage 
  > 
-> 🏆 55 Contributions in the Year 2026
+> 🏆 244 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 4 Public Repositories 
+> 📜 6 Public Repositories 
  > 
-> 🔑 12 Private Repositories 
+> 🔑 3 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-🌆 Daytime                73 commits          █████████████░░░░░░░░░░░░   52.14 % 
-🌃 Evening                40 commits          ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-🌙 Night                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+🌞 Morning                320 commits         ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+🌆 Daytime                791 commits         ██████████████░░░░░░░░░░░   55.82 % 
+🌃 Evening                297 commits         █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
+
 
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         11 repos            ██████████████████░░░░░░░   73.33 % 
-Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Jupyter Notebook         12 repos            ██████████████████░░░░░░░   70.59 % 
+Python                   4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
 
 
- Last Updated on 24/03/2026 18:39:37 UTC
+ Last Updated on 02/04/2026 18:57:10 UTC
 <!--END_SECTION:waka-->
