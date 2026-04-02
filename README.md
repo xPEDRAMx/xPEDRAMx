@@ -14,8 +14,6 @@
 ## 🐱 My GitHub Data
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115.1%20hours-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 291.4 kB Used in GitHub's Storage 
