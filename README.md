@@ -16,9 +16,9 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 362.4 kB Used in GitHub's Storage 
+> 📦 365.7 kB Used in GitHub's Storage 
  > 
-> 🏆 362 Contributions in the Year 2026
+> 🏆 363 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,16 +26,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                803 commits         █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-🌆 Daytime                2165 commits        ███████████████░░░░░░░░░░   58.43 % 
-🌃 Evening                724 commits         █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-```
-
-
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -48,5 +38,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 02:49:13 UTC
+ Last Updated on 15/05/2026 02:49:46 UTC
 <!--END_SECTION:waka-->
